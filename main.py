@@ -120,7 +120,7 @@ def yearmenu():
 
 def classmenu():
     return input(
-        "Enter a class number: ")  # i dont want to handle non int so i wont
+        "Enter a 5 digit class number: ")  # i dont want to handle non int so i wont
 
 
 def termmenu():
