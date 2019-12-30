@@ -6,7 +6,7 @@ Run this script on your desktop. When your chosen class opens up, it'll play a s
 
 ## Can I see it in action?
 
-ok https://www.youtube.com/watch?v=QwlBY2JDarA&feature=youtu.be
+ok https://youtu.be/-mSHPmYbHKY
 
 ## Why not just make a script to enroll me in the class?
 
