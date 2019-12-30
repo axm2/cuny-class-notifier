@@ -4,6 +4,10 @@
 
 Run this script on your desktop. When your chosen class opens up, it'll play a sound loud enough that you will be able to run to your desk and enroll.
 
+## Can I see it in action?
+
+ok https://www.youtube.com/watch?v=QwlBY2JDarA&feature=youtu.be
+
 ## Why not just make a script to enroll me in the class?
 
 ;)
