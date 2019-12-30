@@ -25,8 +25,8 @@ edit line 84 to point to wherever you downloaded chromedriver
 
 Download the zip, extract it, open a terminal in that folder (powershell for instance if you're on windows)
 
-sample usage: `PS E:\Documents\cuny-class-notifier> python.exe .\main.py --institution 'Queens College' --term 'Spring' --year '2020' --subject 'Computer Science' --visible --classnum '54313'`
+sample usage: `$ python.exe .\main.py --institution 'Queens College' --term 'Spring' --year '2020' --subject 'Computer Science' --visible --classnum '54313'`
 
-or without any arguments `PS E:\Documents\cuny-class-notifier> python.exe .\main.py`
+or without any arguments `$ python.exe .\main.py`
 
 if and when the class opens up, it'll play a loud noise 10 times and quit
