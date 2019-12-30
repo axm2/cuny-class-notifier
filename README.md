@@ -13,8 +13,11 @@ Run this script on your desktop. When your chosen class opens up, it'll play a s
 python, playsound, selenium, chromedriver
 
 Download python: https://www.python.org/downloads/
+
 Install playsound: `pip install playsound -U`
+
 Install selenium: `pip install selenium -U`
+
 Download chromedriver: https://chromedriver.chromium.org/downloads
 edit line 84 to point to wherever you downloaded chromedriver
 
