@@ -76,12 +76,12 @@ def main():
     flag = False
 
     options = Options()
-    options.binary_location = "C:/Program Files (x86)/Google/Chrome Beta/Application/chrome.exe"
+    #options.binary_location = "C:/Program Files (x86)/Google/Chrome Beta/Application/chrome.exe"
     if not args.visible:
         options.add_argument('headless')
     driver = webdriver.Chrome(
         chrome_options=options,
-        executable_path="E:/Downloads/chromedriver_win32/chromedriver.exe",
+        executable_path="C:/Downloads/chromedriver_win32/chromedriver.exe",
     )
     driver.get("https://globalsearch.cuny.edu/")
     collegeID = driver.find_elements_by_xpath("//*[contains(text(), '" +
